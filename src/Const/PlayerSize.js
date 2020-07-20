@@ -1,0 +1,1 @@
+export const PLAYER_SIZE = {MINIMIZE:"minize",MAXIMIZE:"maximize"}

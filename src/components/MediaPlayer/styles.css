@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial,
+    sans-serif;
+  background: #ccc;
+}
+
+.sheet {
+  z-index: 100;
+  position: fixed;
+  left: 0vw;
+  height: calc(100vh + 60px);
+  width: 100vw;
+  border-radius: 12px 12px 0px;
+  background: #fff;
+  touch-action: none;
+}
+
+.sheet > div {
+  height: 60px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: capitalize;
+}
+  

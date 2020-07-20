@@ -1,0 +1,26 @@
+{
+    "product1":{
+        "image":"https://cdn.shopify.com/s/files/1/1850/0373/products/H883109_Freakonomics_Journal-APPROVEDMOCKUPS-WEB_1024x.jpg?v=1573084660",
+        "price":"$28.00",
+        "title":"Freakonomics: Hardcover Journal",
+        "description":"When you hire people for your company, start by looking through your network and look for people that have done exactly what you want instead of looking outside. "
+    },
+    "product2":{
+        "image":"https://cdn.shopify.com/s/files/1/1850/0373/products/H883107_Freakonomics_Frost_Tumbler-APPROVEDMOCKUP-WEB_800x.jpg?v=1572631041",
+        "price":"$30.00",
+        "title":"Freakonomics: Hardcover Journal",
+        "description":"When you hire people for your company, start by looking through your network and look for people that have done exactly what you want instead of looking outside. "
+    },
+    "product3":{
+        "image":"https://cdn.shopify.com/s/files/1/1850/0373/products/2018-12-7_SOCKS0096_800x.jpg?v=1559752201",
+        "price":"$12.00",
+        "title":"Freakonomics: Orpple Socks (Turquoise)",
+        "description":"Men’s socks will fit US men’s shoe size 8-12 (Sock Size 10-13) "
+    },
+    "product4":{
+        "image":"https://cdn.shopify.com/s/files/1/1850/0373/products/Screen_Shot_2018-07-09_at_12.34.32_PM_2048x.png?v=1531165238",
+        "price":"$30.00",
+        "title":"ABOUT IF I UNDERSTOOD YOU, ...",
+        "description":"NEW YORK TIMES BESTSELLER • Award-winning actor Alan Alda tells the fascinating story of his quest to learn how to communicate better, and to teach others to do the same. With his trademark humor and candor, he explores how to develop empathy as the key factor."
+    }
+}

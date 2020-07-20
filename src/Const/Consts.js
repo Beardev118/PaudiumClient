@@ -1,0 +1,1 @@
+export const MEDIA = {PAUSE:0,PLAY:1,LOADING:-1,HIDE:-2};
